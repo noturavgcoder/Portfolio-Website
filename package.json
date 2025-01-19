@@ -1,0 +1,12 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "Portfolio Website project",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "<bilal riaz>",
+    "license": "MIT"
+  }
+  
